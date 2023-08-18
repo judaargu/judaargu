@@ -8,7 +8,7 @@ Soy desarrollador FullStack, ingeniero de sonido con conocimientos en el diseño
 
 🔍Sobre mí
 
-Desarrollador Fullstak, ingeniero de Sonido, amante de la música 🎵, de la percusión 🥁y de aprender cosas nuevas en pro de mi crecimiento personal 📚.
+Desarrollador Fullstak, ingeniero de Sonido, amante de la música 🎵, de la percusión 🥁y de aprender cosas nuevas en pro de mi crecimiento personal y profesional 📚.
 Desde que estaba cursando mi carrera profesional como ingeniero de sonido, tuve interés en la tecnología y en el mundo de la programación, sobre todo del desarrollo web, siendo mi primer lenguaje Python.  
   
 
